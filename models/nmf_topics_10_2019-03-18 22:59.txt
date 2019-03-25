@@ -1,0 +1,51 @@
+NMF reconstruction error is: 257.7254107344298
+'recipe0' : white sugar, margarine, shortening, warm water, yeast, evaporated milk, almond extract, pastry, boiling water, distilled white vinegar
+'recipe1' : olive oil, balsamic vinegar, shallot, garlic clove, red wine vinegar, basil leaf, rosemary, red onion, zucchini, basil
+'recipe2' : sugar, pure vanilla extract, room temperature, powdered sugar, all purpose flour, vanilla bean, vanilla, cinnamon, flour, fine salt
+'recipe3' : butter, half-and-, flour, white wine, chicken stock, shallot, mushroom, evaporated milk, bread, salt to taste
+'recipe4' : kosher salt, pepper, scallion, canola oil, room temperature, bay leaf, low-sodium chicken broth, thyme, apple cider vinegar, buttermilk
+'recipe5' : cornstarch, whole milk, cold water, pie crust, blueberry, egg yolk, nutmeg, oyster sauce, peanut oil, broccoli floret
+'recipe6' : brown sugar, ketchup, rolled oats, baking soda, worcestershire sauce, apple cider vinegar, peanut butter, cinnamon, cider vinegar, quick cooking oats
+'recipe7' : vegetable oil, yellow cake mix, zucchini, cornmeal, ground turmeric, shallot, kosher salt and freshly ground pepper, salt to taste, corn tortilla, distilled white vinegar
+'recipe8' : vanilla extract, room temperature, heavy whipping cream, powdered sugar, sweetened condensed milk, evaporated milk, square unsweetened chocolate, chocolate chip, cake flour, sifted confectioner sugar
+'recipe9' : ground black pepper, salt to taste, potato, garlic salt, sea salt, bread crumb, paprika, dried thyme, dried parsley, green bean
+'recipe10' : ground cinnamon, ground nutmeg, ground clove, ground ginger, ground allspice, pumpkin puree, raisin, baking soda, molasses, apple 
+'recipe11' : milk, baking powder, shredded cheddar cheese, margarine, self-rising flour, ham, shortening, condensed cream of mushroom soup, elbow macaroni, cheddar cheese
+'recipe12' : onion, carrot, stalk celery, bay leaf, potato, green bell pepper, ground beef, celery, tomato paste, diced tomato
+'recipe13' : water, white rice, chicken bouillon, quinoa, distilled white vinegar, salt to taste, cinnamon stick, bread flour, white vinegar, light corn syrup
+'recipe14' : extra-virgin olive oil, kosher salt and freshly ground pepper, basil leaf, red wine vinegar, shallot, garlic clove, balsamic vinegar, red onion, basil, dijon mustard
+'recipe15' : confectioner sugar, almond extract, pure vanilla extract, yellow cake mix, lemon zest, almonds, peanut butter, creamy peanut butter, food coloring, cream of tartar
+'recipe16' : lemon juice, lemon zest, lemon peel, mint leaf, garlic clove, tahini, dill, blueberry, worcestershire sauce, garbanzo bean
+'recipe17' : soy sauce, sesame oil, green onion, ginger, sesame seed, rice vinegar, ginger root, scallion, rice wine vinegar, peanut oil
+'recipe18' : unsalted butter, pure vanilla extract, whole milk, light brown sugar, fine salt, nutmeg, shallot, kosher salt and freshly ground pepper, extra-large egg, semisweet chocolate
+'recipe19' : black pepper, dijon mustard, shallot, thyme leaves, good olive oil, parsley leaf, parmesan, basil leaf, yellow onion, sea salt
+'recipe20' : salt and pepper, potato, pork chop, mushroom, extra virgin olive oil, green bean, balsamic vinegar, baking potato, head cabbage, bread crumb
+'recipe21' : honey, dijon mustard, warm water, yeast, whole wheat flour, bread flour, almonds, rolled oats, peanut butter, balsamic vinegar
+'recipe22' : mayonnaise, dijon mustard, worcestershire sauce, green onion, ketchup, hot sauce, red onion, sweet pickle, celery, prepared horseradish
+'recipe23' : cream cheese, graham cracker crumb, green onion, graham cracker crust, jalapeno pepper, sweetened condensed milk, crushed pineapple, pumpkin puree, cherry pie filling, hot pepper sauce
+'recipe24' : garlic powder, onion powder, paprika, worcestershire sauce, ketchup, seasoned salt, hot pepper sauce, dried parsley, hot sauce, ground beef
+'recipe25' : salt, yeast, warm water, pepper, bread flour, canola oil, all purpose flour, package active dry yeast, white pepper, shortening
+'recipe26' : parmesan cheese, shredded mozzarella cheese, bread crumb, spinach, basil, zucchini, spaghetti sauce, italian seasoning, ricotta cheese, spaghetti
+'recipe27' : heavy cream, whole milk, bittersweet chocolate, egg yolk, vanilla bean, nutmeg, semisweet chocolate, shallot, chicken stock, brandy
+'recipe28' : all-purpose flour, shortening, cold unsalted butter, lemon zest, ice water, warm water, cold butter, vegetable shortening, yeast, blueberry
+'recipe29' : lemon, orange, lime, white wine, caper, mint leaf, shrimp, cucumber, parsley leaf, cold water
+'recipe30' : egg, bread crumb, cooking spray, whole milk, yellow cake mix, ground beef, melted butter, bread, cottage cheese, ricotta cheese
+'recipe31' : baking powder, baking soda, buttermilk, shortening, whole wheat flour, cake flour, pure vanilla extract, yellow cornmeal, cornmeal, fine salt
+'recipe32' : garlic, red pepper flake, bay leaf, white wine, tomato paste, crushed red pepper flake, yellow onion, chicken stock, rosemary, worcestershire sauce
+'recipe33' : sour cream, green onion, salsa, condensed cream of mushroom soup, condensed cream of chicken soup, fresh chive, egg noodle, shredded cheddar cheese, dill, seasoning mix
+'recipe34' : walnut, raisin, baking soda, coconut, crushed pineapple, date, rolled oats, semisweet chocolate chip, apple, dried cranberry
+'recipe35' : kosher salt and freshly ground black pepper, canola oil, shallot, dijon mustard, thyme, yellow onion, russet potato, parsley leaf, scallion, cilantro leaf
+'recipe36' : salt and ground black pepper, potato, heavy whipping cream, cooking spray, sweet onion, sweet potato, head cauliflower, red potato, spinach, russet potato
+'recipe37' : salt and freshly ground black pepper, canola oil, chicken stock, parsley leaf, cilantro leaf, dijon mustard, thyme leaves, shallot, basil leaf, hot sauce
+'recipe38' : orange juice, orange zest, orange, cranberry, pineapple juice, sweet potato, vodka, cranberry juice, lime juice, orange peel
+'recipe39' : egg yolk, egg white, cream of tartar, heavy whipping cream, cake flour, almond extract, vanilla bean, sweetened condensed milk, lemon zest, half-and-
+'recipe40' : parsley, white wine, thyme, kosher salt and freshly ground pepper, shallot, low-sodium chicken broth, shrimp, pepper, green onion, fresh chive
+'recipe41' : dried oregano, dried basil, dried thyme, tomato sauce, tomato paste, dried parsley, green bell pepper, diced tomato, ground beef, shredded mozzarella cheese
+'recipe42' : pecan, margarine, sweet potato, crushed pineapple, evaporated milk, coconut, sweetened condensed milk, dried cranberry, corn syrup, bourbon
+'recipe43' : ground cumin, cayenne pepper, chili powder, paprika, ground coriander, black bean, ground turmeric, diced tomato, sweet potato, green chile
+'recipe44' : bacon, shredded cheddar cheese, green onion, ground beef, green bean, condensed cream of mushroom soup, jalapeno pepper, ham, broccoli, cooking spray
+'recipe45' : banana, strawberry, blueberry, ice cube, peanut butter, heavy whipping cream, ice, plain yogurt, raspberry, vanilla ice cream
+'recipe46' : chicken breast, chicken broth, white wine, condensed cream of chicken soup, margarine, celery, white rice, condensed cream of mushroom soup, half-and-, curry powder
+'recipe47' : cilantro, lime juice, lime, red onion, jalapeno pepper, avocado, cilantro leaf, red bell pepper, jalapeno, lime zest
+'recipe48' : cocoa powder, semisweet chocolate chip, baking soda, peanut butter, rolled oats, margarine, sweetened condensed milk, boiling water, pure vanilla extract, chocolate chip
+'recipe49' : tomato, cucumber, green bell pepper, basil, salt to taste, red onion, green onion, feta cheese, zucchini, black olive

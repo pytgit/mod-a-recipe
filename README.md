@@ -5,6 +5,7 @@ Mod-a-Recipe is developed as my capstone project at Metis data science immersive
 
 ## Data Source
 Recipe data was scraped by [Eight Portions](https://eightportions.com/datasets/Recipes/) (~80,000 recipes used here) from [Epicurious](https://www.epicurious.com/),[AllRecipes](https://www.allrecipes.com/), and [FoodNetwork](https://www.foodnetwork.com/).
+Also, tagged ingredients data is used from the NYTimes Ingredients Phrase Tagger project. [Github](https://github.com/NYTimes/ingredient-phrase-tagger)
 
 ## Code at Github
 Here is the github repo for this project: [link](https://github.com/pytgit/mod-a-recipe)
@@ -12,12 +13,14 @@ Here is the github repo for this project: [link](https://github.com/pytgit/mod-a
 ## Tools Used
 Python is used for data acquisition, cleaning and modeling. Specific python libraries used include:
 * Modeling: scikit-learn
-* Natural language processing: Spacy
+* Natural language processing: spaCy
 
 ## Methodology Used
 1. Data set from the three data sources (Epicurious, AllRecipes, Foodnetwork) are merged into one, and data cleaned to remove irrelevant information. (refer to code here: src/data/make_dataset.py)
 
-2. Using a variety of machine learning tools (Python, scikit-learn, spacy), ~40,000 unique ingredients were extracted from the ingredients list of the recipes data, using NER modeling. (refer to code here: src/models/train_model-nlp.py and src/features/build_features.py)
+2. Using 2000 rows of tagged ingredients list data from the [NYTimes Ingredients Phrase Tagger project](https://github.com/NYTimes/ingredient-phrase-tagger) and 200 rows of manually tagged data from the [Eight Portions](https://eightportions.com/datasets/Recipes/) data set, the spaCy NER model is trained to recognize ingredients from ingredients list text.
+
+3. Using the trained spaCy NER model, ~40,000 unique ingredients were extracted from the ingredients list of the recipes data. (refer to code here: src/models/train_model-nlp.py and src/features/build_features.py)
 
 3. Topic modeling technique (TFIDF word vector with non-negative matrix factorization) is then used to reduce dimensionality such that similar recipes can be calculated using cosine similarity. The NMF yielded 50 topics were seemed to be representative of certain types of recipes. For example:
    * Topic 1	(Asian recipes): soy sauce, sesame oil, green onion, ginger, sesame seed, rice vinegar, ginger root, scallion, rice wine vinegar, peanut oil
@@ -25,7 +28,7 @@ Python is used for data acquisition, cleaning and modeling. Specific python libr
 
    (refer to code here: src/models/train_model.py)
 
-4. Similar recipes were found as a result, and differences in ingredients lists are highlighted as possible substitutions or enhancements to the selected recipe. Check out the application with sample results on [Mod-a-recipe](https://mod-a-recipe.herokuapp.com/)
+4. Similar recipes were found as a result, and differences in ingredients lists are highlighted as possible substitutions or enhancements to the selected recipe. Check out the Flask application with sample results on [Mod-a-recipe](https://mod-a-recipe.herokuapp.com/)
 
 ## Resources
 1. NYTimes Ingredients Phrase Tagger. [Github](https://github.com/NYTimes/ingredient-phrase-tagger)
